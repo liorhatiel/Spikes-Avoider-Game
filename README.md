@@ -1,1 +1,12 @@
-In this game, you take on the role of a bird navigating from one side of the screen to the other, skillfully avoiding randomly appearing spikes along the way.
+## Reviewing the Code
+
+To review the code, navigate to the following path in the project directory:
+
+`Assets -> Scripts`
+
+Look for files that end with `.cs` (C# script files).
+
+
+## Play the Game
+
+You can play the game online [here]([https://your-game-link.com](https://lior-hatiel.itch.io/spikes-avoider)).
